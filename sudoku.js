@@ -87,3 +87,4 @@ function checkQuadrant(r, c, sodokulist) {
 Sudoku_Game(sodokulist);
 console.log('Solved');
 console.log(sodokulist);
+console.log("Great")
